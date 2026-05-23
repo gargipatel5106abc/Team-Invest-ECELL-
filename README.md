@@ -1,7 +1,7 @@
 # Team-Invest-ECELL-
 
 ## 📌 Overview
-Team AG is a next-generation Indian trading platform designed to address the gaps in existing solutions like Zerodha. Our MVP focuses on **real-time performance, safe onboarding, inclusive design, and intelligent monetization**.  
+Team Invest is a next-generation Indian trading platform designed to address the gaps in existing solutions like Zerodha. Our MVP focuses on **real-time performance, safe onboarding, inclusive design, and intelligent monetization**.  
 
 This README provides a clear understanding of the tech stack, features, and user flow for the MVP.
 
@@ -60,5 +60,3 @@ This README provides a clear understanding of the tech stack, features, and user
 
 ---
 
-
-Would you like me to also prepare a **short investor-facing README version** (1-page executive summary) that strips out technical jargon and focuses only on vision, market, and impact?
